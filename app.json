@@ -1,9 +1,9 @@
 {
-    "name": "Stefanie",
-    "description": "Stefanie Is Powerfull whatsapp bot For Whatsapp",
-    "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
+    "name": "Hacker Pencha",
+    "description": "hacker pencha Is Powerfull whatsapp bot For Whatsapp",
+    "logo": "https://telegra.ph/file/eb541a96d7c05e3f2b9ee.jpg",
     "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "asena", "bug", "free rdp" ],
-    "repository": "https://www.github.com/xmain12/stefanie-beta",
+    "repository": "https://github.com/Kaweeshachamodk/HACKER-PENCHA",
     "website":   "https://t.me/Amazone_Neotrox_Support",
     "success_url": "https://t.me/Amazone_Neotrox_Support",
     "stack": "container",
@@ -54,7 +54,7 @@
        "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰Queen Stefanie"
+            "value": "hacker pencha"
         },
         "WHATS_LINK_BLOCK": {
             "description": "Link Blocking System.- this one blocks whatsapp group  link",
