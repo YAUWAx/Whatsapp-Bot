@@ -1,6 +1,6 @@
 FROM quay.io/lyfe00011/test:beta
 
-RUN git clone https://github.com/xmain12/stefanie-beta /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Kaweeshachamodk/HACKER-PENCHA /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 RUN yarn install --no-audit
 RUN git clone https://github.com/xmain12/stefanie-x
